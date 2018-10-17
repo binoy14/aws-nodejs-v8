@@ -1,0 +1,19 @@
+{
+  "name": "aws-nodejs-v8",
+  "version": "1.0.0",
+  "description": "Serverless webpack exmaple using NodeJs v8",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Binoy Patel",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "babel-loader": "^8.0.4",
+    "serverless-webpack": "^5.2.0",
+    "webpack": "^4.20.2"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.1.0"
+  }
+}
